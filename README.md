@@ -1,2 +1,2 @@
-# react-review
+# small-exercises
 Created with CodeSandbox
